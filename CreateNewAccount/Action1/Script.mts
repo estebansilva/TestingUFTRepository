@@ -1,1 +1,2 @@
-﻿
+﻿ValidLogginAccess()
+CloseBrowser()
